@@ -25,6 +25,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nazirov-Dev&show_icons=true&theme=radical">
                                                                                                                    
-<img src="https://github-readme-stats.vercel.app/api?username=@Nazirov-Dev&count_private=false&show_icons=true&theme=radical">
+<img src="https://github-readme-stats.vercel.app/api?username=Nazirov-Dev&count_private=false&show_icons=true&theme=radical">
+
                                                                                                                             
 [![wakatime](https://wakatime.com/badge/user/155950c3-05de-4747-8d5c-a23f99f7da30.svg)](https://wakatime.com/@155950c3-05de-4747-8d5c-a23f99f7da30)
