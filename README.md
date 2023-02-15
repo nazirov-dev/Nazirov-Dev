@@ -1,4 +1,4 @@
-<h1>Hi, I'am <a href="https://t.me/cyber_senior" target="_blank">Abdulaziz Nazirov</a> !</h1>
+<h1>Hi, I'm <a href="https://t.me/cyber_senior" target="_blank">Abdulaziz Nazirov</a> !</h1>
 <hr>	
 <h3>Languages and Tools:</h3>
 <div style="displey: flex">
