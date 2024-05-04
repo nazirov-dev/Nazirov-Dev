@@ -16,7 +16,7 @@
 <ul style="font-size: 12px">
   <li>🌱 I’m constantly learning, currently diving deeper into Laravel mysteries!</li>
   <li>👯 Looking to collaborate on innovative backend projects - let's connect!</li>
-  <li>🥅 2023 Goals: To contribute to open-source projects, especially in web development.</li>
+ <li>🥅 2024 Goals: Enhancing proficiency in web development frameworks and contributing actively to open-source projects.</li>
   <li>⚡ Fun fact: I'm a gourmet adventurer, recently tried [insert exotic food] and loved it!</li>
 </ul>
                              
