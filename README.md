@@ -47,7 +47,7 @@
   <li>📈 <strong>40K+ Monthly Active Users (MAU)</strong>.</li>
 </ul>
 
-<h3>🛡️ Haady (Cybersecurity Learning Platform)</h3>
+<h3>🛡️ <a href="https://haad.ai/">Haady</a> (Cybersecurity Learning Platform)</h3>
 <ul>
   <li>👨‍💻 Helps students learn <strong>Cybersecurity, Programming, and IT</strong>.</li>
   <li>🏗️ <strong>Role:</strong> DevOps, Backend Developer, Software Engineer.</li>
