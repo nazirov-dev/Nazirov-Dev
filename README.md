@@ -55,11 +55,11 @@
   <li>🎓 <strong>3K+ students currently learning.</strong></li>
 </ul>
 
-<h3>🌟 <a href="https://t.me/JasurPremiumBot">JasurPremiumBot</a></h3>
+<h3>🌟 <a href="https://t.me/JasurPremyumBot">JasurPremiumBot</a></h3>
 <ul>
   <li>🎟️ <strong>Sells Telegram Premium & Stars</strong>.</li>
   <li>👥 <strong>Referral system</strong> for earning free subscriptions.</li>
-  <li>📈 <strong>50K+ Monthly Active Users (MAU)</strong>.</li>
+  <li>📈 <strong>80K+ Monthly Active Users (MAU)</strong>.</li>
 </ul>
 
 <hr>
